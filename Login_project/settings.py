@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'login',
     'drf_yasg'
+    
 ]
 
 MIDDLEWARE = [
